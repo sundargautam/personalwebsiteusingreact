@@ -1,0 +1,25 @@
+.notice-board{
+
+    background-color: #F50057;
+    max-height: 45px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.notice-board-content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    
+}
+.notice-board-content i{
+    color: yellow;
+  
+}
+
+.notice-board-content p{
+    padding: 2px;
+    color: white;
+    font-weight: bold;
+}

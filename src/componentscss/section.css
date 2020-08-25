@@ -1,0 +1,12 @@
+.section p{
+    font-weight:bold;
+}
+
+.section i{
+
+    color: black;
+}
+.section button{
+
+   margin-left: 12px;
+}

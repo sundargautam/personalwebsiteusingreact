@@ -1,0 +1,29 @@
+.navbar-nav  li a:hover{
+
+    background-color: #E5E5E5;
+ 
+}
+
+.navbar  li a{
+
+    color: #424242;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu-item{
+    width: 130px;
+    text-align: center;
+    font-weight: 800;
+    font-variant-caps: all-petite-caps;
+    font-size: 22px;
+
+
+}
+
+.navbar ul li{
+
+    padding-left: 60px;
+
+}
+.navbar{
+    background-color: #FFFFFF;
+}
