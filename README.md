@@ -15,4 +15,4 @@ This is simple website create using ReactJs.
 - You can create your personal portfolio within few hours
 
 
-## For queries/Feedback leave me mail at [MyGmail][sundargautam6@gmail.com]
+## For queries/Feedback leave me mail at (sundargautam6@gmail.com)
