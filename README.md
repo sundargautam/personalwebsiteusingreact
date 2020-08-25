@@ -5,7 +5,7 @@ This is simple website create using ReactJs.
 ## Below is output of this project
 
 
-![website demo] (https://github.com/sojoraja1/personalwebsite/blob/master/layout.png)
+![demo] (https://github.com/sojoraja1/personalwebsite/blob/master/layout.png?raw=true)
 
 ## Why this project?
 - This project don't use React-Redux for statemanagement.Thus, you can see the real use of Context and Reducer provided by React for statemanagement.
